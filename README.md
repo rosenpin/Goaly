@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100" src="https://user-images.githubusercontent.com/5289630/199271923-d830b539-6d51-4bba-83a5-04559b6ee10e.png">
+</p>
+
 # Goaly Support & Community
 
 Welcome to the Goaly support hub! This is your central place for getting help, reporting issues, and connecting with the Goaly community.
